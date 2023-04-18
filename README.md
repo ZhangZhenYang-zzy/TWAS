@@ -1,4 +1,2 @@
 # TWAS
-code used in FarmGTEx TWAS-server
-#### TWAS-FUSION
-We apply the 
+Code used in FarmGTEx TWAS-server
